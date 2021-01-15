@@ -8248,6 +8248,11 @@ form .response.error {
 .form-anchor a{
     color: #00994E;
 }
+.icon{
+    font-size: 16px;
+    border-left: 2px solid black;
+    padding: 2px 5px 0px 15px
+}
 @media screen and (min-width : 993px){
     .myform{
       position: absolute;
