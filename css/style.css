@@ -1,58 +1,8 @@
 @charset "UTF-8";
 
 /*
-Theme Name: CargoPress by ProteusThemes
-Theme URI: https://demo.proteusthemes.com/cargopress/
-Author: ProteusThemes
-Author URI: https://www.proteusthemes.com/
-Description: CargoPress WordPress Theme.
-Tags: dark, light, two-columns, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, sticky-post, translation-ready
-Version: 1.5.0-1-g93dbc93
-License: GPL 2.0
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text domain: cargopress-pt
+GitHub Repo imhamad | Full Stack Web Developer
 */
-/* TABLE OF CONTENTS
-	01. Project variables............Imported variables
-	02. Twitter Bootstrap............Remove what is not neccessary
-	03. Tags.........................Like <body>, <h1> etc.
-	04. Helpers and utility classes..The general styles like .push-down-15 etc.
-	05. Components...................Imported files, like partials, Compass etc.
-		05.01. Top Bar
-		05.02. Header
-		05.03. Main Title
-		05.04. Breadcrumbs
-		05.05. Sidebar
-		05.06. Footer
-		05.07. Error 404
-		05.08. No Flexbox
-		05.09. Top Navigation
-		05.10. Main Navigation
-		05.11. Jumbotron
-		05.12. Video background
-		05.13. Meta Data
-		05.14. Pagination
-		05.15. Comments
-		05.16. Buttons
-		05.17. Icons
-		05.18. ProteusWidgets
-		05.19. Fleet Gallery
-		05.20. Widgets
-		05.21. Contact Form
-*/
-/*------------------------------------*\
-	01. Project variables
-
-	only visible in SASS source files
-\*------------------------------------*/
-/*------------------------------------*\ Local variables
-\*------------------------------------*/
-/*------------------------------------*\
-	02. Twitter Bootstrap
-
-	Remove what is not necessary
-\*------------------------------------*/
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
