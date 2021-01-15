@@ -1409,7 +1409,9 @@ form .response.error { color: red; }
 /*------------------------------------*\
 	The End :)
 \*------------------------------------*/
-
+.top{
+    background-color: #f4e640;
+}
 .custom-logo{
     max-width: 150px
 }
