@@ -8226,7 +8226,7 @@ form .response.error {
 .form-inline{
     display: flex;
     flex-direction:row;
-    
+
 }
 .form-control{
     margin-bottom: 0px
@@ -8262,7 +8262,7 @@ form .response.error {
     right: 60px;
     padding: 38px;
     background-color: #edfcf7 ;
-    margin-top: -100px  
+    margin-top: -100px
     }
 }
 
@@ -8270,4 +8270,10 @@ form .response.error {
     .myform{
         display: none
     }
+}
+.form-anchor a::before{
+content: '\25A0';
+height: 5px;
+width: 5px;
+color:darkred;
 }
